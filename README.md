@@ -90,3 +90,28 @@ Tree-based models (Random Forest, XGBoost, CatBoost) showed the best performance
 ---
 
 ## Repository structure
+
+```text
+.
+├── TaiwanBankruptcy.ipynb      # Main analysis notebook
+├── code_snippets.ipynb         # Utility and experimentation code
+├── data.csv                    # Dataset
+├── presentation/               # Slides and final report
+│   ├── ml-finance-project-presentation.pdf
+│   ├── ml-finance-project-report.pdf
+│   └── README.md
+└── README.md
+
+---
+
+## Presentation & report
+The full **project presentation slides** and **final report** are available in the  
+[`presentation`](./presentation) folder.
+
+---
+
+## Academic context
+This project was developed as part of a **Machine Learning / Finance academic course**.
+
+This repository is an **individual presentation repository** of a **group project**  
+and is shared for **educational and portfolio purposes only**.
